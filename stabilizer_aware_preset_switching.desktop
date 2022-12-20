@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=stabilizer_aware_preset_switching
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=Stabilizer-Aware Preset Switching
+Comment=Only stabilize if inking and not erasing
